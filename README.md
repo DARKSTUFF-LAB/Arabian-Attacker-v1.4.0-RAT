@@ -1,5 +1,5 @@
 # Arabian-Attacker-v1.4.0-RAT
-Arabian-Attacker v1.4.0 is a simple Remote Administration Tool.
+Arabian-Attacker v1.4.0 is a Remote Administration Tool.
 
 1. Easy-to-use
 2. Control and manage systems from a distance
